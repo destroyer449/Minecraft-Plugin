@@ -1,0 +1,4 @@
+name: BlankPlugin
+version: 0.1
+author: Dominic Adamson
+main: com.gmail.dominic.adamson.blank.Blank
